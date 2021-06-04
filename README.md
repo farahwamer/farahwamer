@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello 👋
+My name is Farah Amer, and I'm a 2nd year undergraduate student studying Computer Science, specializing in Software Design.
+
+In addition to Software Development, I am interested in UI/UX design!
+
 
 <!--
 **farahwamer/farahwamer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

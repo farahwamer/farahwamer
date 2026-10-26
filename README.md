@@ -1,8 +1,9 @@
 ### Hello 👋
-My name is Farah Amer, and I'm a 4th year undergraduate student studying Computer Science, specializing in Software Design.
+My name is Farah Amer, and I'm a senior full-stack software developer specializing in applied AI
 
-In addition to Software Development, I am interested in UI/UX design!
+Enjoy some of my projects from my university days, and check out my website for case studies on the products I've worked on professionally!
 
+More side projects under construction 🚧
 
 <!--
 **farahwamer/farahwamer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

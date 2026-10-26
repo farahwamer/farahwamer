@@ -1,7 +1,7 @@
 ### Hello 👋
 My name is Farah Amer, and I'm a senior full-stack software developer specializing in applied AI
 
-Enjoy some of my projects from my university days, and check out my website for case studies on the products I've worked on professionally!
+Enjoy some of my projects from my university days, and check out [my website](https://www.farahwamer.com/) for case studies on the products I've worked on professionally!
 
 More side projects under construction 🚧
 
